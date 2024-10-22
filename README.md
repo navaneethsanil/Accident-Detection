@@ -17,6 +17,4 @@ Video Preprocessing: The video input is split into frames for easier processing.
 
 Feature Extraction: A convolutional neural network (CNN) extracts features from each frame.
 
-Temporal Analysis: A recurrent neural network (RNN), such as LSTM or GRU, is used to analyze the sequence of frames and capture the temporal dynamics of the video.
-
 Prediction: The model outputs a prediction (Accident/No Accident) based on the analyzed frames.
