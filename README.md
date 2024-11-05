@@ -18,6 +18,6 @@ python -m venv env
 source env/scripts/activate
 ```
 
-Then run the main.ipynb file
+Then run the main.ipynb file. You can see the demo by executing the Gradio Demo section
 
-**Note**: In the main.ipynb notebook, you can bypass the training step.
+**Note**: In the main.ipynb notebook, you can bypass the training step. Instead, you can load the pre-trained model
