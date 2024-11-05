@@ -20,4 +20,4 @@ source env/scripts/activate
 
 Then run the main.ipynb file
 
-**Note**: In the main.ipynb notebook, you can bypass the training step. Instead, load the pre-trained model within the training section.
+**Note**: In the main.ipynb notebook, you can bypass the training step.
