@@ -16,6 +16,8 @@ cd Accident-Detection
 
 python -m venv env
 source env/scripts/activate
+
+pip install -r requirements.txt
 ```
 
 Then run the main.ipynb file. You can see the demo by executing the Gradio Demo section
