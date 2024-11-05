@@ -10,11 +10,13 @@ Features
 
 
 # Installation
-`git clone https://github.com/navaneethsanil/Accident-Detection.git`
-`cd Accident-Detection`
+```
+git clone https://github.com/navaneethsanil/Accident-Detection.git
+cd Accident-Detection
 
-`python -m venv env`
-`source env/scripts/activate`
+python -m venv env
+source env/scripts/activate
+```
 
 Then run the main.ipynb file
 
