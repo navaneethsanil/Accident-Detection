@@ -7,3 +7,15 @@ Features
 * Instant Alerts: Sends automatic notifications to nearby emergency services when an accident is detected.
 * High Accuracy: Built with state-of-the-art PyTorch models, ensuring reliable accident detection.
 * Scalable & Flexible: Easily integrates with different video feeds and sensor data sources.
+
+
+# Installation
+`git clone https://github.com/navaneethsanil/Accident-Detection.git`
+`cd Accident-Detection`
+
+`python -m venv env`
+`source env/scripts/activate`
+
+Then run the main.ipynb file
+
+**Note**: In the main.ipynb notebook, you can bypass the training step. Instead, load the pre-trained model within the training section.
