@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 Then run the main.ipynb file. You can see the demo by executing the Gradio Demo section
 
-**Note**: In the main.ipynb notebook, you can bypass the training step. Instead, you can load the pre-trained model
+**Note**: In the main.ipynb file, you can bypass the training step. Instead, you can load the pre-trained model
