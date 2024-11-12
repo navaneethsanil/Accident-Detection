@@ -2,3 +2,5 @@ torch
 torchvision
 tqdm
 kaggle
+geopy
+geocoder
